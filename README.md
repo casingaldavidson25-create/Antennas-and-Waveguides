@@ -63,13 +63,3 @@ By rotating the **Horn Antenna** and measuring received power at 5° intervals, 
 3.  **Probe Handling:** The Slotted Line probe is extremely fragile. Do not over-tighten the probe depth.
 
 ---
-
-## 📂 Repository Content
-* `/Manuals`: PDF scans of the U-3000 series operation manuals.
-* `/Calculations`: Python/MATLAB scripts for Smith Chart plotting.
-* `/Photos`: High-resolution images of the lab bench setup.
-* `/Data`: CSV files from VSWR and Antenna experiments.
-
----
-
-**Next Step:** Would you like me to generate a **Python script** that takes your lab measurements ($V_{max}$, $V_{min}$, and probe position) and automatically generates a **Smith Chart**?
